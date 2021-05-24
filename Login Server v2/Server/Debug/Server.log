@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Server.cpp
+e:\2020\20202\ltm\homework04\server\server.cpp(83): warning C4101: 'new_client': unreferenced local variable
+e:\2020\20202\ltm\homework04\server\server.cpp(244): warning C4101: 'response': unreferenced local variable
+  Server.vcxproj -> E:\2020\20202\ltm\Homework04\Debug\Server.exe
+  Server.vcxproj -> E:\2020\20202\ltm\Homework04\Debug\Server.pdb (Full PDB)
