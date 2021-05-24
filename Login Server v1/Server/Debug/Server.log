@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Server.cpp
+e:\2020\20202\ltm\homework03\server\server.cpp(165): warning C4715: 'handleClient': not all control paths return a value
+  Server.vcxproj -> E:\2020\20202\ltm\Homework03\Debug\Server.exe
+  Server.vcxproj -> E:\2020\20202\ltm\Homework03\Debug\Server.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Client.cpp
+e:\2020\20202\ltm\homework03\client\client.cpp(132): warning C4101: 'received': unreferenced local variable
+e:\2020\20202\ltm\homework03\client\client.cpp(132): warning C4101: 'sent': unreferenced local variable
+  Client.vcxproj -> E:\2020\20202\ltm\Homework03\Debug\Client.exe
+  Client.vcxproj -> E:\2020\20202\ltm\Homework03\Debug\Client.pdb (Full PDB)
